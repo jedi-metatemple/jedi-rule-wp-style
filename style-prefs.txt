@@ -1,0 +1,2 @@
+:chobak-style=yes:
+:on-absent-template=warn:

@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>{{{esc|title}}}</title>
+</head>
+<body>
+<h1>{{{esc|title}}}</h1>
+
+<table border = "1" cellpadding = "5">
+{{{lit|big-toc}}}
+</table>
+
+{{{lit|contents}}}
+
+
+</body>
+</html>
